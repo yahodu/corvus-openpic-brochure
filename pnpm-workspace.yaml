@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - nodemailer@9.1.1
