@@ -1,5 +1,5 @@
 .env
-.env.local
+.env*.local
 .DS_STORE
 node_modules
 scripts/flow/*/.flowconfig
@@ -10,6 +10,8 @@ scripts/flow/*/.flowconfig
 _SpecRunner.html
 __benchmarks__
 build/
+/.next/
+/out/
 base-build/
 sizebot-comment.md
 sizebot-context.json
